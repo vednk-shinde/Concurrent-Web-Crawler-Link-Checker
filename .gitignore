@@ -1,0 +1,21 @@
+# Maven
+target/
+dependency-reduced-pom.xml
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Crawl output / JVM crash files
+*.csv
+*.log
+hs_err_pid*.log
+replay_pid*.log
